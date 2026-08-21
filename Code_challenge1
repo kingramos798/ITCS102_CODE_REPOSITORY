@@ -1,0 +1,10 @@
+star = "\t\t\t\t\t\t\t\t*"
+star1 = "\t\n\t\t\t\t\t\t\t*\t\t*\t\n\t\t\t\t\t\t*\t\t\t\t*"
+star2 = "\t\t\n\t\t\t\t\t*\t\t\t\t\t\t*\t\t\n\t\t\t\t*\t\t\t\t\t\t\t\t*"
+star3 = "\t\t\n\t\t\t*\t\t\t\tking rafael b. ramos\t\t\t\t*\t\t\t\t\t\t\t"
+star4 = "\n\t\t\t\t*\t\t\t\t\t\t\t\t*\t\t\n\t\t\t\t\t*\t\t\t\t\t\t*\n\t\t\t\t\t\t*\t\t\t\t*\n\t\t\t\t\t\t\t*\t\t*"
+star5= "\n\t\t\t\t\t\t\t\t*"
+
+
+
+print(star, star1, star2, star3, star4, star5)
