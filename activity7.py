@@ -38,13 +38,4 @@ total /= n2
 n2 = eval(input("Enter a Number -->"))
 total *= n2
 
-n2 = eval(input("Enter a Number -->"))
-total += n2
-
-n2 = eval(input("Enter a Number -->"))
-total *= n2
-
-n2 = eval(input("Enter a Number -->"))
-total -= n2
-
 print("The sum is", total)
