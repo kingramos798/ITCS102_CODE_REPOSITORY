@@ -42,7 +42,7 @@ if owner_age >= 21 and years_in_business >= 2.0 and has_defaults == False:
             print("Business is more than 5yrs")
             base_fee = max_loan * 2.0
         else:
-            print("Business is less than 50yrs")
+            print("Business is less than 5yrs")
             base_fee = max_loan * 3.5
             print("Base fee rate", base_fee)  
 
